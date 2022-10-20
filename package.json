@@ -1,0 +1,21 @@
+{
+  "name": "jft-coding",
+  "version": "1.0.0",
+  "description": "# Checking whether this gets committed",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djfbryant/jft-coding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djfbryant/jft-coding/issues"
+  },
+  "homepage": "https://github.com/djfbryant/jft-coding#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
